@@ -1,0 +1,132 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Milad Jahromi
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links    
+    website: miladj.github.io #do not add http://
+    linkedin: miladj
+    github: miladj    
+    stack-overflow: 879387/milad # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      - idiom: Persian
+        level: Native
+
+      - idiom: English
+        level: Professional
+        
+    
+career-profile:
+    title: Career Profile
+    summary: |
+      Software Developer with 8+ years of exprience in developing software. Familiar with a wide range of technology and software languages. Furthermor, I have a great ability to communicate with team member and also collaborate with teammates towards team's goal. 
+
+education:
+    - degree: B.SC. IN INFORMATION TECHNOLOGY ENGINEERING
+      university: Shahrood University of Technology, Shahrood, Iran
+      time: 2005 - 2010      
+
+experiences:
+    - role: SENIOR SOFTWARE DEVELOPER
+      time: July, 2010 - Present
+      company: TADBIRPARDAZ CO.
+      details: |
+        My expriences are mostly developing and designing Software for Capital Market in a wide range of fields. Developing high preformance and scalabe software is part of my job.
+projects:
+    title: Projects
+    intro: >
+      My Project are mostly around Captial Market and related fields.
+
+    assignments:
+      - title: Online Trading System
+        link: "#hook"
+        tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket."
+
+      - title: Integrating MetaTrader 5 
+        link: "#"
+        tagline: "this project allows retail customers use this platform for performing their trades. Main task for this project is developing Datafeeder and Gateway using C++/CLR,C#."
+
+      - title: Gold Coin Future Online Trading
+        link: "#"
+        tagline: "this project is to Design and Develop an OMS (order management system)  and also a web-based front-end for retail customer allows them to trade. The project contains module for order routing and also risk management module."
+
+      - title: Tadbir Brokerage Solution’s architecture
+        link: "#"
+        tagline: "My duties were to  refactor and redesign Tadbir Brokerage Solution’s architecture  and framework using NHibernate, IoC (Windsor Castle), MVC, ADO.NET,XML."
+
+      - title: Plugin Base Algorithm trading Infra
+        link: "#"
+        tagline: "Building a plugin base infrastructure for Algorithm Trading."
+
+      - title: Redesign web-based front-end
+        link: "#"
+        tagline: "Building a plugin base infrastructure for Algorithm Trading."
+
+      - title: API for Mobile Trader
+        link: "#"
+        tagline: "this project is to allow a mobile trader application (Android and iOS)  interact with Online Trading System and Gold Coin Future Online Trading System."
+
+      - title: Banking Solution Team
+        link: "#"
+        tagline: "this project allows banks to do trade for their customers from bank branches instead of broker branches. I am the team lead and also prepare and develop an infrastructure for other applications to interact using WEBAPI."		
+publications:
+    title: Publications
+   
+    papers:
+      - title: "A secure anonymous scheme for e-voting"
+        authors: "Mohsen Rezvani, Mohammad Hosein Hamidi and Milad Jahromi"
+        conference: "15th, International Computer Society of Iran Conference (CSICC15), 2009"
+
+      - title: "Security Considerations in e-voting contracts"
+        authors: Mohsen Rezvani, Milad Jahromi and Hamed Lashkari 
+        conference: "Second International e-city conference (ICEC02), 2009"
+
+      - title: "Authentication in e-voting based on national identity"
+        authors: "Mohsen Rezvani, Mostafa Deirdar, Milad Jahromi and Hamed Lashkari"
+        conference: "First International e-city Conference (ICEC01), 2008"
+
+certificates:
+    title: Certificates
+
+    certificate:
+      - title: "Certificate Sql Server Query Tuning And Optimization"        
+        time: "11.2014- 12.2014"        
+
+      - title: "Certificate Web Application Design And Architecture"
+        time: "12.2012 - 1.2013"        
+
+skills:
+    title: Skills &amp; Proficiency
+    extraData: I also have exprience in Microsoft Source Safe, TFS, SVN, GIT, Specflow, MsTest, nUnit, Rhino Mocks, Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET 
+    toolset:
+      - name: C#
+        level: 98%
+
+      - name: MSSql Server
+        level: 90%
+      - name: Javascript 
+        level: 80%
+
+      - name: jQuery
+        level: 80%
+
+      - name: Angular
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: Asp.Net & MVC
+        level: 90%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

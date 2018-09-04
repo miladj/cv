@@ -1,0 +1,32 @@
+{% assign certificates = site.data.data.certificates %}
+{% if certificates %}
+<section class="section certificates-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ certificates.title }}
+  </h2>
+
+  {% if certificates.intro %}
+  <div class="intro">
+    {{ certificates.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for certificate in certificates.certificate %}
+  <div class="item">
+  <div class="meta">
+
+      <div class="upper-row">
+    <div class="certificate-title">{{ certificate.title }}</div>
+    <div class="time">{{ certificate.time }}</div>
+	</div>
+	</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
