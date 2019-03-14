@@ -48,7 +48,7 @@ projects:
 
     assignments:
       - title: Online Trading System
-        link: "#hook"
+        link: "#"
         tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket."
 
       - title: Integrating MetaTrader 5 
