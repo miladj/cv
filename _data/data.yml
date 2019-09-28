@@ -106,7 +106,7 @@ certificates:
 
 skills:
     title: Skills &amp; Proficiency
-    extraData: I also have exprience in Microsoft Source Safe, TFS, SVN, GIT, Specflow, MsTest, nUnit, Rhino Mocks, Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET 
+    extraData: I also have exprience in Microsoft Source Safe, TFS, SVN, GIT, Specflow, MsTest, nUnit, Rhino Mocks, Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, and I have a basic knowledge of docker
     toolset:
       - name: C#
         level: 98%
