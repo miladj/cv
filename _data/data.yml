@@ -80,7 +80,7 @@ projects:
         tagline: "this project allows banks to do trade for their customers from bank branches instead of broker branches. I am the team lead and also prepare and develop an infrastructure for other applications to interact using WEBAPI."		
         
       - title: Azure Devops
-        linke: "#"
+        link: "#"
         tagline: "Create and test azure devops operations and also maitain the build and release pipeline for deploying on server
 publications:
     title: Publications
