@@ -49,7 +49,7 @@ projects:
     assignments:
       - title: Online Trading System
         link: "#"
-        tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket, and also some of the inner projects migrated to dotnet core"
+        tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket, and also some of the sub projects migrated to dotnet core"
 
       - title: Integrating MetaTrader 5 
         link: "#"
