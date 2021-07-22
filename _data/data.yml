@@ -49,11 +49,11 @@ projects:
     assignments:
       - title: Online Trading System
         link: "#"
-        tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket."
+        tagline: "The project is being developed for the stock market in Iran. It was the first online trading system. The product has to be highly scalable and concurrent having a high performance. My duties are designing the system, in addition to developing and refactoring the code to adapt market growth. Main technologies are MS SQLServer, ADO.NET, WCF, MVC, Webforms, jQuery, RabbitMQ and Socket, and also some of the inner projects migrated to dotnet core"
 
       - title: Integrating MetaTrader 5 
         link: "#"
-        tagline: "this project allows retail customers use this platform for performing their trades. Main task for this project is developing Datafeeder and Gateway using C++/CLR,C#."
+        tagline: "this project allows retail customers use this platform for performing their trades. Main task for this project is developing Datafeeder and Gateway using C++/CLR,C#. The main goal of project was creating a dotnet wrapper over native library using c++/CLR so the libraries can be used in c# and dotnet projects."
 
       - title: Gold Coin Future Online Trading
         link: "#"
@@ -78,6 +78,10 @@ projects:
       - title: Banking Solution Team
         link: "#"
         tagline: "this project allows banks to do trade for their customers from bank branches instead of broker branches. I am the team lead and also prepare and develop an infrastructure for other applications to interact using WEBAPI."		
+        
+      - title: Azure Devops
+        linke: "#"
+        tagline: "Create and test azure devops operations and also maitain the build and release pipeline for deploying on server
 publications:
     title: Publications
    
@@ -106,7 +110,7 @@ certificates:
 
 skills:
     title: Skills &amp; Proficiency
-    extraData: I also have exprience in Microsoft Source Safe, TFS, SVN, GIT, Specflow, MsTest, nUnit, Rhino Mocks, Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, and I have a basic knowledge of docker
+    extraData: I also have exprience in Microsoft Source Safe, TFS, Azure Devops, SVN, GIT, Specflow, MsTest, nUnit, Rhino Mocks, Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, and I have a basic knowledge of docker
     toolset:
       - name: C#
         level: 98%
@@ -117,9 +121,6 @@ skills:
         level: 80%
 
       - name: jQuery
-        level: 80%
-
-      - name: AngularJs
         level: 80%
 
       - name: HTML5 & CSS
