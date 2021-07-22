@@ -81,7 +81,7 @@ projects:
         
       - title: Azure Devops
         link: "#"
-        tagline: "Create and test azure devops operations and also maitain the build and release pipeline for deploying on server
+        tagline: "Create and test azure devops operations and also maitain the build and release pipeline for deploying on server"
 publications:
     title: Publications
    
