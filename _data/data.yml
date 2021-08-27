@@ -28,7 +28,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software Developer with 8+ years of exprience in developing software. Familiar with a wide range of technology and software languages. Furthermor, I have a great ability to communicate with team member and also collaborate with teammates towards team's goal. 
+      Software Developer with 10+ years of exprience in developing software. Familiar with a wide range of technology and software languages. Furthermor, I have a great ability to communicate with team member and also collaborate with teammates towards team's goal. 
 
 education:
     - degree: B.SC. IN INFORMATION TECHNOLOGY ENGINEERING
@@ -91,7 +91,7 @@ publications:
         conference: "15th, International Computer Society of Iran Conference (CSICC15), 2009"
 
       - title: "Security Considerations in e-voting contracts"
-        authors: Mohsen Rezvani, Milad Jahromi and Hamed Lashkari 
+        authors: "Mohsen Rezvani, Milad Jahromi and Hamed Lashkari"
         conference: "Second International e-city conference (ICEC02), 2009"
 
       - title: "Authentication in e-voting based on national identity"
@@ -114,13 +114,17 @@ skills:
     toolset:
       - name: C#
         level: 98%
-
+        
+      - name: dotnet/.NET core
+        level: 98%
+        
       - name: MSSql Server
         level: 90%
+        
       - name: Javascript 
         level: 80%
 
-      - name: jQuery
+      - name: Azure Devops
         level: 80%
 
       - name: HTML5 & CSS
