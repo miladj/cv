@@ -12,7 +12,7 @@ sidebar:
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links    
-    website: miladj.github.io #do not add http://
+    website: "" #miladj.github.io #do not add http://
     linkedin: miladj
     github: miladj    
     stack-overflow: 879387/milad # Number/Username, e.g. 123456/alandoe
@@ -121,6 +121,9 @@ skills:
       - name: MSSql Server
         level: 90%
         
+      - name: Asp.Net & MVC
+        level: 90%        
+        
       - name: Javascript 
         level: 80%
 
@@ -130,8 +133,6 @@ skills:
       - name: HTML5 & CSS
         level: 80%
 
-      - name: Asp.Net & MVC
-        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
