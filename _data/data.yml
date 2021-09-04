@@ -112,12 +112,12 @@ skills:
     title: Skills &amp; Proficiency
     extraData: |
     * Programming Languages: C#, C++(Familiar) | 
-* Development Technologies:  Dotnet core, Asp.Net, MVC.Net, HTML , REST, Javascript, JQuery, Angular.js, CSS,SPA, WEBAPI |
-* Database: Ms Sql Server, MySql |
-* Source Controls & ALM: Azure Devops, Microsoft Source Safe, TFS, SVN, GIT |
-* IDEs: Microsoft Visual Studio,  Intelij Idea  |
-* Test Frameworks: Specflow, MsTest, nUnit, Rhino Mocks(Moq),xUnit |
-* Other Concepts and technolog: Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket Programming, Object Oriented Design, Solid Principals, Windsor Castle, WCF, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, docker 
+    * Development Technologies:  Dotnet core, Asp.Net, MVC.Net, HTML , REST, Javascript, JQuery, Angular.js, CSS,SPA, WEBAPI |
+    * Database: Ms Sql Server, MySql |
+    * Source Controls & ALM: Azure Devops, Microsoft Source Safe, TFS, SVN, GIT |
+    * IDEs: Microsoft Visual Studio,  Intelij Idea  |
+    * Test Frameworks: Specflow, MsTest, nUnit, Rhino Mocks(Moq),xUnit |
+    * Other Concepts and technolog: Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket Programming, Object Oriented Design, Solid Principals, Windsor Castle, WCF, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, docker 
 
     toolset:
       - name: C#
