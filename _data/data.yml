@@ -120,26 +120,7 @@ skills:
         * Other Concepts and technolog: Inversion of Control/Dependency Injections (IoC), AOP, Multithreading, Socket Programming, Object Oriented Design, Solid Principals, Windsor Castle, WCF, RabbitMq, IIS,Soap UI,OpenSSL,ADO.NET, docker 
 
     toolset:
-      - name: C#
-        level: 98%
-        
-      - name: dotnet/.NET core
-        level: 98%
-        
-      - name: MSSql Server
-        level: 90%
-        
-      - name: Asp.Net & MVC
-        level: 90%        
-        
-      - name: Javascript 
-        level: 80%
 
-      - name: Azure Devops
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 80%
 
 
 footer: >
